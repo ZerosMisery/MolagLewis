@@ -1,0 +1,13 @@
+{
+  "Name": "Molag Lewis",
+  "Author": "circxsking",
+  "Description": "Causes Lewis to talk like Molag Bal from The Elder Scrolls V: Skyrim",
+  "Version": "0.0.1",
+  "UniqueID": "circxsking.MolagLewis",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "UpdateKeys": [
+    "Nexus:30082 "
+  ]
+}
